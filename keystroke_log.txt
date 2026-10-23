@@ -1,0 +1,19 @@
+[2026-10-23 18:13:26] --- Logging started (consented local demo) ---
+[2026-10-23 18:14:41] [SHIFT_R][CMD][PRINT_SCREEN][CTRL_L][ENTER]
+[2026-10-23 18:15:25] --- Logging stopped (ESC pressed) ---
+[2026-10-23 18:16:42] --- Logging started (consented local demo) ---
+[2026-10-23 18:17:31] [SHIFT]HR[SHIFT]HE[CTRL_L][CTRL_L][CTRL_L]how to type msg[ENTER]
+hello this is a test message[2026-10-23 18:18:00] [CTRL_L][CTRL_L][CTRL_L][ENTER]
+[2026-10-23 18:18:07] --- Logging stopped (ESC pressed) ---
+[2026-10-23 18:18:51] --- Logging started (consented local demo) ---
+[2026-10-23 18:19:38] i am not getting what to do[SHIFT_R]?[ENTER]
+[2026-10-23 18:19:59] --- Logging stopped (ESC pressed) ---
+[2026-10-23 18:23:48] --- Logging started (consented local demo) ---
+[2026-10-23 18:24:02] --- Logging stopped (ESC pressed) ---
+[2026-10-23 18:26:10] --- Logging started (consented local demo) ---
+[2026-10-23 18:26:39] ntg is chanhing[ENTER]
+[2026-10-23 18:28:42] --- Logging started (consented local demo) ---
+[2026-10-23 18:29:38] [CTRL_L][CTRL_L]
+[2026-10-23 18:29:38] --- Logging stopped (ESC pressed) ---
+[2026-10-23 18:29:44] --- Logging started (consented local demo) ---
+[2026-10-23 18:29:56] --- Logging stopped (ESC pressed) ---
