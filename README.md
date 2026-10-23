@@ -35,6 +35,12 @@ Type `YES` at the consent prompt to begin. Press **ESC** at any time to stop and
 - Buffers typed characters and writes them, with a timestamp, to `keystroke_log.txt` whenever Enter/Tab is pressed or logging stops
 - Special keys (Enter, Backspace, etc.) are logged as readable labels like `[ENTER]`
 
+  
+
+https://github.com/user-attachments/assets/de82bf55-8566-47f8-adde-af5df51f14ce
+
+
+
 ## Defensive Takeaways
 
 - Antivirus/EDR tools flag unsigned processes hooking global keyboard events
