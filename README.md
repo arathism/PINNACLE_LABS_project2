@@ -15,17 +15,17 @@ Only run this on a device you own, on yourself, for this demo. Logging someone e
 
 ## Requirements
 
-\`\`\`bash
+
 pip install pynput
-\`\`\`
+
 
 Requires a graphical desktop (Windows, macOS, or Linux with a display).
 
 ## Usage
 
-\`\`\`bash
+
 python keylogger.py
-\`\`\`
+
 
 Type `YES` at the consent prompt to begin. Press **ESC** at any time to stop and save the log.
 
