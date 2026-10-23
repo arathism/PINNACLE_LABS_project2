@@ -34,6 +34,7 @@ Type `YES` at the consent prompt to begin. Press **ESC** at any time to stop and
 - Uses `pynput` to listen for keyboard events system-wide
 - Buffers typed characters and writes them, with a timestamp, to `keystroke_log.txt` whenever Enter/Tab is pressed or logging stops
 - Special keys (Enter, Backspace, etc.) are logged as readable labels like `[ENTER]`
+  
 
   
 
